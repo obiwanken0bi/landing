@@ -1,0 +1,23 @@
+.banner {
+  background-image: url(../../images/background.png);
+  min-height: 590px;
+  background-size: cover;
+  background-position: bottom;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.banner h1 {
+  color: white;
+  margin-bottom: 0px;
+}
+
+.banner p {
+  color: rgb(193,207,221);
+  font-size: 20px;
+}
+
+.banner .container {
+  align-items: flex-start;
+}

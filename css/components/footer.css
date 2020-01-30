@@ -1,0 +1,14 @@
+footer {
+  background-color: rgb(44,43,43);
+  color: rgb(107,108,108);
+  height: 95px;
+  text-align: center;
+  padding: 60px 0;
+  margin-top: 32px;
+}
+
+footer a {
+  color: rgb(84,221,136);
+  font-size: 30px;
+  margin: 4px;
+}
